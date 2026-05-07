@@ -29,7 +29,7 @@
 </h2>
 
 <span align="center">
-	<h2>Demo Vercel</h2>
+	<h2>Vercel</h2>
   <a href="https://moveit-next-orcin-five.vercel.app/" >Link</a>
 </span>
 
