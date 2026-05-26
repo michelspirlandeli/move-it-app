@@ -86,10 +86,10 @@ Antes de começar, você precisa ter instalado:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/michelspirlandeli/Next-Level-Week-4.git
+$ git clone https://github.com/michelspirlandeli/move-it-app.git
 
 # Entre na pasta do projeto
-$ cd Next-Level-Week-4/moveit-next
+$ cd move-it-app/moveit-next
 
 # Instale as dependências
 $ yarn install
